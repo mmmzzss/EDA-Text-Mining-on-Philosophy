@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Spring 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Data story - The History of Feminism
++ This project is conducted by Jingshu Zhang
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: It is widely discussed in 2023 that the inequality between men and women is around everywhere in terms of salary and job opportunities in the workplaces, the political movement, and so on. Feminism has the position that male point of view is prioritized, and for most of the time, females are treated in an unjust way. This story looks into three authors, Wollstonecraft, Davis, and Beauvoir with regards to their attitudes and emotions towards feminism. The analysis is compiled based the History of Philosophy dataset on Kaggle.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
