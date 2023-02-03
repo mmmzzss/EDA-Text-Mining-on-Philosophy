@@ -19,18 +19,19 @@ Term: Spring 2023
 
 The outline of the data story:
 
-1. EDA on the Whole dataset
-  - 1.1 Frequency of Publication across School and Author
-  - 1.2 Compound Score with Sentiment Analysis across School
+1. The History of the Feminism
+2. EDA on the Whole dataset
+  - 2.1 Frequency of Publication across School and Author
+  - 2.2 Compound Score with Sentiment Analysis across School
  
-2. EDA - concentration on Feminism
-  - 2.1 Contribuition of authors in Feminism
-  - 2.2 Sentiment Analysis across Authors
-  - 2.3 Emotions Analysis across Author
-  - 2.4 WordCloud of 3 authors
-  - 2.5 Summary in common and difference
+3. EDA - concentration on Feminism
+  - 3.1 Contribuition of authors in Feminism
+  - 3.2 Sentiment Analysis across Authors
+  - 3.3 Emotions Analysis across Author
+  - 3.4 WordCloud of 3 authors
+  - 3.5 Summary in common and difference
  
-3. Future work
+4. Future work
 
 
 
