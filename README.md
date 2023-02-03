@@ -28,6 +28,7 @@ The outline of the data story:
   - 2.2 Sentiment Analysis across Authors
   - 2.3 Emotions Analysis across Author
   - 2.4 WordCloud of 3 authors
+  - 2.5 Summary in common and difference
  
 3. Future work
 
